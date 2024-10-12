@@ -1,0 +1,1 @@
+These are our first version of the parts. We have modified almost all the parts during the assembly in order to fix the sizes. also in some cases we have chose to use the other group's part with a slight modification in our assembly instead of ours. 
