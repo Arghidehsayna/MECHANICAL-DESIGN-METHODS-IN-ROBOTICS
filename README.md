@@ -4,7 +4,7 @@
 ## Project Overview
 This project demonstrates the process of assembling a LEGO set using **Creo 9** CAD software. It covers key steps such as designing individual parts, assembling them, and running simulations to test part alignment, motion, and interference. The project also highlights common challenges encountered during the design process.
 
-<img src=".jpg" width="400px">
+<img src="https://github.com/Arghidehsayna/MECHANICAL-DESIGN-METHODS-IN-ROBOTICS/blob/master/MDM_LEGO.png?raw=true.jpg" width="200px">
 
 
 
